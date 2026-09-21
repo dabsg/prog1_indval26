@@ -14,7 +14,7 @@ public class Readname {
         
         System.out.println("ange ålder");
 
-        String age=sc.next();
+        int age=sc.nextInt();
 
         System.out.println("hej "+name+"du är "+age+" år gammal");
 
