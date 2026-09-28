@@ -4,8 +4,7 @@ public class Stringtest {
 public static void main(String[] args) {
     
 String fnamn="daniel";
-String enamn="andersson";
-int ålder=40;
+String enamn=
 
 
 String namn=fnamn+" "+enamn+ " "+ålder;
