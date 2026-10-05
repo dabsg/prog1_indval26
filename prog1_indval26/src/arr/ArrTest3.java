@@ -4,7 +4,10 @@ import java.util.Arrays;
 
 public class ArrTest3 {
 public static void main(String[] args) {
+    /*
     
+    
+    */
   int [] i= new int[100000]; 
 
   for(int k =0;k<i.length;k++ ){
